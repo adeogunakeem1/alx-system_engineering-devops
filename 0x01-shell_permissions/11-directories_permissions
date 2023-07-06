@@ -1,2 +1,2 @@
-#!/bin/bashpermissio 
+#!/bin/bash 
 chmod -r +x .
